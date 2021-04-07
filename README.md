@@ -1,7 +1,7 @@
 # Sales_Prediction-Project
 Machine Learning Project to predict sales for each Dept using markdown data
 
-Has a linear model to find a specific value for the sales that we want to predict
+Done by Akarsh_D Under the guidance of Dr.Sesha Sayee
 
 **Functionalities :**
   Data Analysis, 
